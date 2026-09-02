@@ -28,7 +28,7 @@ mv ./kubectl ~/.local/bin/kubectl
 kubectl version --client
 ````
 
-# Install AWS CLI on Ubuntu**
+# Install AWS CLI on Ubuntu
 ##### Download the aws cli bundle using below command
 ````
 snap install aws-cli --classic
