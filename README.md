@@ -1,4 +1,4 @@
-# kubernetes-files
+# kubernetes-installation
 
 # Install kubectl**
 1: Download the latest release with the command:
